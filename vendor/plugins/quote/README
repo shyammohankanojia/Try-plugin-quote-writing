@@ -1,0 +1,18 @@
+Quote
+=====
+Displays back an awesome Arnold quote in your models!
+After installation, be sure to run
+rake quote:setup
+
+
+
+
+Example
+=======
+
+a = User.new
+a.quote => "Get to the chopper!"
+
+
+
+Copyright (c) 2011 [name of plugin creator], released under the MIT license
